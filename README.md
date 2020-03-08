@@ -26,3 +26,9 @@ an other broker, with a slight change of code I'm sure you can make it as well.
 
 If you need any help for a different broker setup, reach me out,
 I'm happy to give some pointers.
+
+## Tools that I've mentioned in my video
+
+- [envchain](https://github.com/sorah/envchain)
+- [anaconda](https://anaconda.org)
+- [Visual Studio Code](https://code.visualstudio.com)
