@@ -2,8 +2,17 @@
 
 You can watch how do I built this code on [Youtube](https://www.youtube.com/channel/UCnpiZEi_ZpjhF7g5KAdvUnw/)
 
-Youtube content:
-- [How to gather the data from the broker](https://www.youtube.com/watch?v=6Ca4Gz1Upzo)
+## Youtube content
+
+### How to gather the data from the broker
+
+[How to gather the data from the broker](https://www.youtube.com/watch?v=6Ca4Gz1Upzo)
+
+### Convert the JSON candle data to CSV
+
+- Make a simple converter
+- Enhance the converter and add calculated fields
+- Analyse the CSV in Google Spreadsheet
 
 This code is designed for demo only.
 
