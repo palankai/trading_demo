@@ -1,4 +1,9 @@
-# Trading robot on FOREX
+# Automated FOREX trading with Python
+
+You can watch how do I built this code on [Youtube](https://www.youtube.com/channel/UCnpiZEi_ZpjhF7g5KAdvUnw/)
+
+Youtube content:
+- [How to gather the data from the broker](https://www.youtube.com/watch?v=6Ca4Gz1Upzo)
 
 This code is designed for demo only.
 
